@@ -1,0 +1,155 @@
+
+.STYLE3 {
+	font-size: 12px;
+	color: #22BCE2;
+}
+
+#empaddFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#empdelFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#promakeFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#taskmakeFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#empassFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#checktaskdetailsFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#checkprodetailsFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#addcomFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#highaddempFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#appcomFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#highcheckempdeFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#modifyinfoFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#empmodifyinfoFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#modifycomFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
+
+#highmodifyinfoFrm label.error { 
+    font-size:12px;
+	position:absolute;
+	color:red;
+	text-align:right;
+	line-height:inherit;
+	padding:10px;
+	padding-right:-50px;
+}
